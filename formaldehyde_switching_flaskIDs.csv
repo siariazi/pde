@@ -1,0 +1,16 @@
+flask,treatment,rep,transfer
+A,0,A,0
+B,0,B,0
+C,0,C,0
+D,2,A,0
+E,2,B,0
+F,2,C,0
+G,4,A,0
+H,4,B,0
+I,4,C,0
+D.1,2,A,1
+E.1,2,B,1
+F.1,2,C,1
+G.1,4,A,1
+H.1,4,B,1
+I.1,4,C,1
